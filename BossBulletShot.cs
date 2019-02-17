@@ -40,7 +40,7 @@ public class BossBulletShot : MonoBehaviour {
 
 
 
-                // 12秒後に敵のミサイルを削除する。
+                // 12秒後に弾を削除する。
                 Destroy(bullet, 12.0f);
             }
 
